@@ -1,0 +1,9 @@
+c:\users\amr\documents\visual studio 2013\Projects\MouseVirus\MouseVirus\bin\Debug\MouseVirus.exe.config
+c:\users\amr\documents\visual studio 2013\Projects\MouseVirus\MouseVirus\bin\Debug\MouseVirus.exe
+c:\users\amr\documents\visual studio 2013\Projects\MouseVirus\MouseVirus\bin\Debug\MouseVirus.pdb
+c:\users\amr\documents\visual studio 2013\Projects\MouseVirus\MouseVirus\obj\Debug\MouseVirus.csprojResolveAssemblyReference.cache
+c:\users\amr\documents\visual studio 2013\Projects\MouseVirus\MouseVirus\obj\Debug\MouseVirus.Form1.resources
+c:\users\amr\documents\visual studio 2013\Projects\MouseVirus\MouseVirus\obj\Debug\MouseVirus.Properties.Resources.resources
+c:\users\amr\documents\visual studio 2013\Projects\MouseVirus\MouseVirus\obj\Debug\MouseVirus.csproj.GenerateResource.Cache
+c:\users\amr\documents\visual studio 2013\Projects\MouseVirus\MouseVirus\obj\Debug\MouseVirus.exe
+c:\users\amr\documents\visual studio 2013\Projects\MouseVirus\MouseVirus\obj\Debug\MouseVirus.pdb
